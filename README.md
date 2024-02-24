@@ -1,4 +1,4 @@
-Yo it's Leo Yeo, elite coder, programmer, extraordinaire. Expect only the utmost optimal and world changing code from this profile broskis
+This is Levi Yeo, elite coder, programmer, extraordinaire. Expect only the utmost optimal and world changing code from this profile
 
 <!---
 TheLeoYeo/TheLeoYeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
